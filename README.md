@@ -30,7 +30,7 @@ Assim, os requisitos para este desafio incluem:
 - Exibir no _command-line_ (_CLI_) o resultado do _request_, assim como qual _endpoint_ que o enviou;
 - Limitar o tempo de resposta em 1 segundo. Caso contrário, exibir o erro de _timeout_.
 
-### Solução
+### Execução
 
 ```sh
 curl localhost:8000?cep=01234000
