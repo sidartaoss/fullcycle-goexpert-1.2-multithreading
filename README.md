@@ -27,7 +27,7 @@ Neste desafio, 2 requisições são feitas simultaneamente para os _endpoints_: 
 Assim, os requisitos para este desafio incluem:
 
 - Acatar o _endpoint_ que entregar a resposta mais rápida e descartar a resposta mais lenta;
-- Deve exibir no _command-line_ (_CLI_) o resultado do _request_, assim como qual _endpoint_ que o enviou;
+- Exibir no _command-line_ (_CLI_) o resultado do _request_, assim como qual _endpoint_ que o enviou;
 - Limitar o tempo de resposta em 1 segundo. Caso contrário, exibir o erro de _timeout_.
 
 ### Solução
